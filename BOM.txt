@@ -1,0 +1,12 @@
+Bill of materials
+
+
+1  :  Microcontroller                         |  Arduino Nano/Uno
+1  :  I2C LCD screen                          |  LCD 1602: LCD-Mod-13
+1  :  Real time clock                         |  DS3231
+5  :  Momentary pushbuttons                   |  PBS-160
+5  :  100 ohm resistors (size is irelevant)   |  
+1  :  Speaker                                 |  COM-15350
+1  :  MP3 Player                              |  DFPlayer: DFR0299
+1  :  2.1mm Barrel connector                  |
+1  :  9V battery wiring                       |  
